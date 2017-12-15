@@ -62,7 +62,7 @@ a.navbar-brand {
 
 .card-body {
   padding: 10px 1px;
-  display: inline-block;+
+/*  display: inline-block;*/
 }
 
 .card-header {
